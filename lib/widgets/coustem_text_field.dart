@@ -13,7 +13,7 @@ final int maxlines;
       cursorColor: Kpraymarycolor,
       maxLines: maxlines,
       decoration: InputDecoration(
-        hintText: 'Title',
+        hintText: hint,
         hintStyle:const TextStyle(color: Kpraymarycolor),
           border: buildBorder(),
           enabledBorder: buildBorder(),
